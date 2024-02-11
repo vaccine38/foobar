@@ -1,4 +1,4 @@
-package fandelo.one.finance.expense.resource;
+package main.java.find_the_access_codes;
 
 import java.util.ArrayList;
 import java.util.Arrays;

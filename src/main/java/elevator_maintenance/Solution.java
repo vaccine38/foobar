@@ -1,3 +1,5 @@
+package main.java.elevator_maintenance;
+
 import java.util.Arrays;
 
 public class Solution {

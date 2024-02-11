@@ -1,3 +1,5 @@
+package main.java.braille_translation;
+
 import java.util.HashMap;
 
 public class Solution {

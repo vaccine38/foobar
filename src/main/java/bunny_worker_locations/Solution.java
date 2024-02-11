@@ -1,3 +1,5 @@
+package main.java.bunny_worker_locations;
+
 public class Solution {
 	
 	public static String solution(long x, long y) {
